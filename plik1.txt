@@ -1,3 +1,6 @@
 dodamy pierwszą linię
+
+druga linia gdzieś w środku
+
 to jest pierwszy plik testowy
 Maja pisze lepiej

@@ -1,4 +1,4 @@
-﻿﻿dodamy pierwszą linię
+﻿﻿dodamy pierwszą linię i zmienimy ją
  
 druga linia gdzieś w środku
 
